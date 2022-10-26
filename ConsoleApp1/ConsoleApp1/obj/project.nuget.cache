@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e8TF9u1G6VNeUEbsRrFNmRjRhJPzd+xGCKik7rFXMC+j+hTLqDfZI7sO0xQ0sN+h09DhcWu5EXj97B02AMdwzw==",
+  "dgSpecHash": "/UHHljDDQ4YnvuMH2VjTiZuGbslw2SRdKMtjSJfOB0Zw/oVRFUBZHY0as0nlsgBqhGdx5uaDFxTH+IVbmINKjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Artem\\Documents\\GitHub\\Learn-Sharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Artem\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
